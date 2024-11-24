@@ -37,3 +37,6 @@ The project is divided into multiple Python files for modularity:
 - Add more levels with different challenges.
 - Add a feature to restart the game without closing the window.
 - Add sound effects when the player wins or loses.
+  
+<img width="469" alt="7" src="https://github.com/user-attachments/assets/979f7cb8-f245-4549-b916-faf742687405">
+
